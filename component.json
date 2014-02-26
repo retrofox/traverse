@@ -1,8 +1,8 @@
 {
-  "name": "traverse",
-  "repo": "yields/traverse",
+  "name": "component-traverse",
+  "repo": "retrofox/traverse",
   "description": "low level traverse function, inspired by $.dir.",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "keywords": ["traverse", "dir"],
   "license": "MIT",
   "main": "index.js",
