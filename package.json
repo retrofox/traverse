@@ -1,0 +1,16 @@
+
+{
+  "name": "component-traverse",
+  "repo": "retrofox/traverse",
+  "description": "low level traverse function, inspired by $.dir.",
+  "version": "1.0.0",
+  "keywords": ["traverse", "dir"],
+  "license": "MIT"
+  "dependencies": {
+    "component-matches-selector": "*"
+  },
+  "devDependencies": {
+    "visionmedia/mocha": "*",
+    "component/assert": "*"
+  }
+}
